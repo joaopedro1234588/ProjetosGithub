@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\bin\Debug\net8.0\nomesComForeach.exe
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\bin\Debug\net8.0\nomesComForeach.deps.json
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\bin\Debug\net8.0\nomesComForeach.runtimeconfig.json
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\bin\Debug\net8.0\nomesComForeach.dll
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\bin\Debug\net8.0\nomesComForeach.pdb
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\nomesComForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\nomesComForeach.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\nomesComForeach.AssemblyInfo.cs
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\nomesComForeach.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\nomesComForeach.dll
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\refint\nomesComForeach.dll
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\nomesComForeach.pdb
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\nomesComForeach.genruntimeconfig.cache
+C:\Users\Adail\source\repos\nomesComForeach\nomesComForeach\obj\Debug\net8.0\ref\nomesComForeach.dll
