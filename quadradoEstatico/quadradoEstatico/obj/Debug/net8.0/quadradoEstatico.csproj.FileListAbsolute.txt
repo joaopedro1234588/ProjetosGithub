@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\bin\Debug\net8.0\quadradoEstatico.exe
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\bin\Debug\net8.0\quadradoEstatico.deps.json
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\bin\Debug\net8.0\quadradoEstatico.runtimeconfig.json
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\bin\Debug\net8.0\quadradoEstatico.dll
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\bin\Debug\net8.0\quadradoEstatico.pdb
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\quadradoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\quadradoEstatico.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\quadradoEstatico.AssemblyInfo.cs
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\quadradoEstatico.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\quadradoEstatico.dll
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\refint\quadradoEstatico.dll
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\quadradoEstatico.pdb
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\quadradoEstatico.genruntimeconfig.cache
+C:\Users\Adail\source\repos\quadradoEstatico\quadradoEstatico\obj\Debug\net8.0\ref\quadradoEstatico.dll

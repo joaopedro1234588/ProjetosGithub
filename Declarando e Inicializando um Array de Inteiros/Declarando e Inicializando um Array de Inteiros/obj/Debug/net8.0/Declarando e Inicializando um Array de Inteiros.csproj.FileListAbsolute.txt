@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\bin\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.exe
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\bin\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.deps.json
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\bin\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.runtimeconfig.json
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\bin\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.dll
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\bin\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.pdb
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.AssemblyInfo.cs
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.dll
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\refint\Declarando e Inicializando um Array de Inteiros.dll
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.pdb
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\Declarando e Inicializando um Array de Inteiros.genruntimeconfig.cache
+C:\Users\Adail\source\repos\Declarando e Inicializando um Array de Inteiros\Declarando e Inicializando um Array de Inteiros\obj\Debug\net8.0\ref\Declarando e Inicializando um Array de Inteiros.dll
