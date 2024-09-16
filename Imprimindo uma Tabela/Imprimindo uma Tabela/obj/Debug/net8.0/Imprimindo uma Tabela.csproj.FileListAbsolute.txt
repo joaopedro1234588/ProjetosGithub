@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\bin\Debug\net8.0\Imprimindo uma Tabela.exe
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\bin\Debug\net8.0\Imprimindo uma Tabela.deps.json
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\bin\Debug\net8.0\Imprimindo uma Tabela.runtimeconfig.json
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\bin\Debug\net8.0\Imprimindo uma Tabela.dll
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\bin\Debug\net8.0\Imprimindo uma Tabela.pdb
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\Imprimindo uma Tabela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\Imprimindo uma Tabela.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\Imprimindo uma Tabela.AssemblyInfo.cs
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\Imprimindo uma Tabela.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\Imprimindo uma Tabela.dll
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\refint\Imprimindo uma Tabela.dll
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\Imprimindo uma Tabela.pdb
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\Imprimindo uma Tabela.genruntimeconfig.cache
+C:\Users\Adail\source\repos\Imprimindo uma Tabela\Imprimindo uma Tabela\obj\Debug\net8.0\ref\Imprimindo uma Tabela.dll

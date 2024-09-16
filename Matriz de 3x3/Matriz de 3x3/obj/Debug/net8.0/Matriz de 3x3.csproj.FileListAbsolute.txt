@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\bin\Debug\net8.0\Matriz de 3x3.exe
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\bin\Debug\net8.0\Matriz de 3x3.deps.json
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\bin\Debug\net8.0\Matriz de 3x3.runtimeconfig.json
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\bin\Debug\net8.0\Matriz de 3x3.dll
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\bin\Debug\net8.0\Matriz de 3x3.pdb
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\Matriz de 3x3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\Matriz de 3x3.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\Matriz de 3x3.AssemblyInfo.cs
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\Matriz de 3x3.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\Matriz de 3x3.dll
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\refint\Matriz de 3x3.dll
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\Matriz de 3x3.pdb
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\Matriz de 3x3.genruntimeconfig.cache
+C:\Users\Adail\source\repos\Matriz de 3x3\Matriz de 3x3\obj\Debug\net8.0\ref\Matriz de 3x3.dll

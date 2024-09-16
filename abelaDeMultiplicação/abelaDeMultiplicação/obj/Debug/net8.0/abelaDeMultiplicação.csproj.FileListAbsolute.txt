@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\bin\Debug\net8.0\abelaDeMultiplicação.exe
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\bin\Debug\net8.0\abelaDeMultiplicação.deps.json
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\bin\Debug\net8.0\abelaDeMultiplicação.runtimeconfig.json
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\bin\Debug\net8.0\abelaDeMultiplicação.dll
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\bin\Debug\net8.0\abelaDeMultiplicação.pdb
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\abelaDeMultiplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\abelaDeMultiplicação.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\abelaDeMultiplicação.AssemblyInfo.cs
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\abelaDeMultiplicação.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\abelaDeMultiplicação.dll
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\refint\abelaDeMultiplicação.dll
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\abelaDeMultiplicação.pdb
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\abelaDeMultiplicação.genruntimeconfig.cache
+C:\Users\Adail\source\repos\abelaDeMultiplicação\abelaDeMultiplicação\obj\Debug\net8.0\ref\abelaDeMultiplicação.dll
