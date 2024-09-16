@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\1A100\1A100\bin\Debug\net8.0\1A100.exe
+C:\Users\Adail\source\repos\1A100\1A100\bin\Debug\net8.0\1A100.deps.json
+C:\Users\Adail\source\repos\1A100\1A100\bin\Debug\net8.0\1A100.runtimeconfig.json
+C:\Users\Adail\source\repos\1A100\1A100\bin\Debug\net8.0\1A100.dll
+C:\Users\Adail\source\repos\1A100\1A100\bin\Debug\net8.0\1A100.pdb
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\1A100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\1A100.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\1A100.AssemblyInfo.cs
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\1A100.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\1A100.dll
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\refint\1A100.dll
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\1A100.pdb
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\1A100.genruntimeconfig.cache
+C:\Users\Adail\source\repos\1A100\1A100\obj\Debug\net8.0\ref\1A100.dll
