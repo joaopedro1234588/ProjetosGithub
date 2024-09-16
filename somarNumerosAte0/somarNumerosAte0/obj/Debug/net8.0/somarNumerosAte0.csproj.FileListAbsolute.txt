@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\bin\Debug\net8.0\somarNumerosAte0.exe
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\bin\Debug\net8.0\somarNumerosAte0.deps.json
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\bin\Debug\net8.0\somarNumerosAte0.runtimeconfig.json
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\bin\Debug\net8.0\somarNumerosAte0.dll
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\bin\Debug\net8.0\somarNumerosAte0.pdb
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\somarNumerosAte0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\somarNumerosAte0.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\somarNumerosAte0.AssemblyInfo.cs
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\somarNumerosAte0.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\somarNumerosAte0.dll
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\refint\somarNumerosAte0.dll
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\somarNumerosAte0.pdb
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\somarNumerosAte0.genruntimeconfig.cache
+C:\Users\Adail\source\repos\somarNumerosAte0\somarNumerosAte0\obj\Debug\net8.0\ref\somarNumerosAte0.dll

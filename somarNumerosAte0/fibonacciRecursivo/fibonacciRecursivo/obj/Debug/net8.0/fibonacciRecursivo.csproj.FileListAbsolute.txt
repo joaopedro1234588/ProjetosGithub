@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\bin\Debug\net8.0\fibonacciRecursivo.exe
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\bin\Debug\net8.0\fibonacciRecursivo.deps.json
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\bin\Debug\net8.0\fibonacciRecursivo.runtimeconfig.json
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\bin\Debug\net8.0\fibonacciRecursivo.dll
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\bin\Debug\net8.0\fibonacciRecursivo.pdb
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\fibonacciRecursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\fibonacciRecursivo.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\fibonacciRecursivo.AssemblyInfo.cs
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\fibonacciRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\fibonacciRecursivo.dll
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\refint\fibonacciRecursivo.dll
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\fibonacciRecursivo.pdb
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\fibonacciRecursivo.genruntimeconfig.cache
+C:\Users\Adail\source\repos\fibonacciRecursivo\fibonacciRecursivo\obj\Debug\net8.0\ref\fibonacciRecursivo.dll
