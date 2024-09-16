@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\bin\Debug\net8.0\dobro de numero.exe
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\bin\Debug\net8.0\dobro de numero.deps.json
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\bin\Debug\net8.0\dobro de numero.runtimeconfig.json
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\bin\Debug\net8.0\dobro de numero.dll
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\bin\Debug\net8.0\dobro de numero.pdb
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\dobro de numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\dobro de numero.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\dobro de numero.AssemblyInfo.cs
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\dobro de numero.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\dobro de numero.dll
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\refint\dobro de numero.dll
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\dobro de numero.pdb
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\dobro de numero.genruntimeconfig.cache
+C:\Users\Adail\source\repos\dobro de numero\dobro de numero\obj\Debug\net8.0\ref\dobro de numero.dll

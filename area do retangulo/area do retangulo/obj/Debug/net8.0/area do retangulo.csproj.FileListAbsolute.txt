@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\bin\Debug\net8.0\area do retangulo.exe
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\bin\Debug\net8.0\area do retangulo.deps.json
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\bin\Debug\net8.0\area do retangulo.runtimeconfig.json
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\bin\Debug\net8.0\area do retangulo.dll
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\bin\Debug\net8.0\area do retangulo.pdb
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\area do retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\area do retangulo.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\area do retangulo.AssemblyInfo.cs
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\area do retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\area do retangulo.dll
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\refint\area do retangulo.dll
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\area do retangulo.pdb
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\area do retangulo.genruntimeconfig.cache
+C:\Users\Adail\source\repos\area do retangulo\area do retangulo\obj\Debug\net8.0\ref\area do retangulo.dll
