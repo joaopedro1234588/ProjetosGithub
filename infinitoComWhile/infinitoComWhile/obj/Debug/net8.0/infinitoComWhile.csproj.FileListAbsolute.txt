@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\bin\Debug\net8.0\infinitoComWhile.exe
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\bin\Debug\net8.0\infinitoComWhile.deps.json
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\bin\Debug\net8.0\infinitoComWhile.runtimeconfig.json
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\bin\Debug\net8.0\infinitoComWhile.dll
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\bin\Debug\net8.0\infinitoComWhile.pdb
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\infinitoComWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\infinitoComWhile.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\infinitoComWhile.AssemblyInfo.cs
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\infinitoComWhile.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\infinitoComWhile.dll
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\refint\infinitoComWhile.dll
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\infinitoComWhile.pdb
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\infinitoComWhile.genruntimeconfig.cache
+C:\Users\Adail\source\repos\infinitoComWhile\infinitoComWhile\obj\Debug\net8.0\ref\infinitoComWhile.dll
