@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\bin\Debug\net8.0\nomerosParesComFor.exe
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\bin\Debug\net8.0\nomerosParesComFor.deps.json
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\bin\Debug\net8.0\nomerosParesComFor.runtimeconfig.json
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\bin\Debug\net8.0\nomerosParesComFor.dll
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\bin\Debug\net8.0\nomerosParesComFor.pdb
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\nomerosParesComFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\nomerosParesComFor.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\nomerosParesComFor.AssemblyInfo.cs
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\nomerosParesComFor.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\nomerosParesComFor.dll
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\refint\nomerosParesComFor.dll
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\nomerosParesComFor.pdb
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\nomerosParesComFor.genruntimeconfig.cache
+C:\Users\Adail\source\repos\nomerosParesComFor\nomerosParesComFor\obj\Debug\net8.0\ref\nomerosParesComFor.dll
