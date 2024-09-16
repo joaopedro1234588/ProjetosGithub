@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\bin\Debug\net8.0\euroMoeda.exe
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\bin\Debug\net8.0\euroMoeda.deps.json
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\bin\Debug\net8.0\euroMoeda.runtimeconfig.json
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\bin\Debug\net8.0\euroMoeda.dll
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\bin\Debug\net8.0\euroMoeda.pdb
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\euroMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\euroMoeda.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\euroMoeda.AssemblyInfo.cs
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\euroMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\euroMoeda.dll
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\refint\euroMoeda.dll
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\euroMoeda.pdb
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\euroMoeda.genruntimeconfig.cache
+C:\Users\Adail\source\repos\euroMoeda\euroMoeda\obj\Debug\net8.0\ref\euroMoeda.dll

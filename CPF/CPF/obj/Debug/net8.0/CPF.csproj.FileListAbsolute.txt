@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\CPF\CPF\bin\Debug\net8.0\CPF.exe
+C:\Users\Adail\source\repos\CPF\CPF\bin\Debug\net8.0\CPF.deps.json
+C:\Users\Adail\source\repos\CPF\CPF\bin\Debug\net8.0\CPF.runtimeconfig.json
+C:\Users\Adail\source\repos\CPF\CPF\bin\Debug\net8.0\CPF.dll
+C:\Users\Adail\source\repos\CPF\CPF\bin\Debug\net8.0\CPF.pdb
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\CPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\CPF.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\CPF.AssemblyInfo.cs
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\CPF.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\CPF.dll
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\refint\CPF.dll
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\CPF.pdb
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\CPF.genruntimeconfig.cache
+C:\Users\Adail\source\repos\CPF\CPF\obj\Debug\net8.0\ref\CPF.dll
