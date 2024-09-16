@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\bin\Debug\net8.0\conversorDeMoeda.exe
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\bin\Debug\net8.0\conversorDeMoeda.deps.json
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\bin\Debug\net8.0\conversorDeMoeda.runtimeconfig.json
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\bin\Debug\net8.0\conversorDeMoeda.dll
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\bin\Debug\net8.0\conversorDeMoeda.pdb
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\conversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\conversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\conversorDeMoeda.AssemblyInfo.cs
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\conversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\conversorDeMoeda.dll
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\refint\conversorDeMoeda.dll
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\conversorDeMoeda.pdb
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\conversorDeMoeda.genruntimeconfig.cache
+C:\Users\Adail\source\repos\conversorDeMoeda\conversorDeMoeda\obj\Debug\net8.0\ref\conversorDeMoeda.dll
