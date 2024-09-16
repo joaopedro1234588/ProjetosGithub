@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\bin\Debug\net8.0\pesoEmOutrosPlanetas.exe
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\bin\Debug\net8.0\pesoEmOutrosPlanetas.deps.json
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\bin\Debug\net8.0\pesoEmOutrosPlanetas.runtimeconfig.json
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\bin\Debug\net8.0\pesoEmOutrosPlanetas.dll
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\bin\Debug\net8.0\pesoEmOutrosPlanetas.pdb
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\pesoEmOutrosPlanetas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\pesoEmOutrosPlanetas.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\pesoEmOutrosPlanetas.AssemblyInfo.cs
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\pesoEmOutrosPlanetas.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\pesoEmOutrosPlanetas.dll
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\refint\pesoEmOutrosPlanetas.dll
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\pesoEmOutrosPlanetas.pdb
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\pesoEmOutrosPlanetas.genruntimeconfig.cache
+C:\Users\Adail\source\repos\pesoEmOutrosPlanetas\pesoEmOutrosPlanetas\obj\Debug\net8.0\ref\pesoEmOutrosPlanetas.dll
