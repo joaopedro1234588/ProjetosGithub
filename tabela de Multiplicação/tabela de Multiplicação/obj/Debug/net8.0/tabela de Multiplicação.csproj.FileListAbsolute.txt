@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\bin\Debug\net8.0\tabela de Multiplicação.exe
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\bin\Debug\net8.0\tabela de Multiplicação.deps.json
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\bin\Debug\net8.0\tabela de Multiplicação.runtimeconfig.json
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\bin\Debug\net8.0\tabela de Multiplicação.dll
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\bin\Debug\net8.0\tabela de Multiplicação.pdb
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\tabela de Multiplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\tabela de Multiplicação.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\tabela de Multiplicação.AssemblyInfo.cs
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\tabela de Multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\tabela de Multiplicação.dll
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\refint\tabela de Multiplicação.dll
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\tabela de Multiplicação.pdb
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\tabela de Multiplicação.genruntimeconfig.cache
+C:\Users\Adail\source\repos\tabela de Multiplicação\tabela de Multiplicação\obj\Debug\net8.0\ref\tabela de Multiplicação.dll

@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\bin\Debug\net8.0\for com 0 100.exe
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\bin\Debug\net8.0\for com 0 100.deps.json
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\bin\Debug\net8.0\for com 0 100.runtimeconfig.json
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\bin\Debug\net8.0\for com 0 100.dll
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\bin\Debug\net8.0\for com 0 100.pdb
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\for com 0 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\for com 0 100.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\for com 0 100.AssemblyInfo.cs
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\for com 0 100.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\for com 0 100.dll
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\refint\for com 0 100.dll
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\for com 0 100.pdb
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\for com 0 100.genruntimeconfig.cache
+C:\Users\Adail\source\repos\for com 0 100\for com 0 100\obj\Debug\net8.0\ref\for com 0 100.dll
