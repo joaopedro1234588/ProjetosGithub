@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\bin\Debug\net8.0\quantidadeDeletrasDosNomes.exe
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\bin\Debug\net8.0\quantidadeDeletrasDosNomes.deps.json
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\bin\Debug\net8.0\quantidadeDeletrasDosNomes.runtimeconfig.json
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\bin\Debug\net8.0\quantidadeDeletrasDosNomes.dll
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\bin\Debug\net8.0\quantidadeDeletrasDosNomes.pdb
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\quantidadeDeletrasDosNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\quantidadeDeletrasDosNomes.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\quantidadeDeletrasDosNomes.AssemblyInfo.cs
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\quantidadeDeletrasDosNomes.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\quantidadeDeletrasDosNomes.dll
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\refint\quantidadeDeletrasDosNomes.dll
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\quantidadeDeletrasDosNomes.pdb
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\quantidadeDeletrasDosNomes.genruntimeconfig.cache
+C:\Users\Adail\source\repos\quantidadeDeletrasDosNomes\quantidadeDeletrasDosNomes\obj\Debug\net8.0\ref\quantidadeDeletrasDosNomes.dll

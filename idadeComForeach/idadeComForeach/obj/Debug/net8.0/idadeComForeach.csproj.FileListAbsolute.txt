@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\idadeComForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\idadeComForeach.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\idadeComForeach.AssemblyInfo.cs
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\idadeComForeach.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\bin\Debug\net8.0\idadeComForeach.exe
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\bin\Debug\net8.0\idadeComForeach.deps.json
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\bin\Debug\net8.0\idadeComForeach.runtimeconfig.json
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\bin\Debug\net8.0\idadeComForeach.dll
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\bin\Debug\net8.0\idadeComForeach.pdb
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\idadeComForeach.dll
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\refint\idadeComForeach.dll
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\idadeComForeach.pdb
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\idadeComForeach.genruntimeconfig.cache
+C:\Users\Adail\source\repos\idadeComForeach\idadeComForeach\obj\Debug\net8.0\ref\idadeComForeach.dll
