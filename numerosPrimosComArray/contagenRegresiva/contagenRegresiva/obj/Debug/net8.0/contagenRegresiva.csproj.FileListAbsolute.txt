@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\bin\Debug\net8.0\contagenRegresiva.exe
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\bin\Debug\net8.0\contagenRegresiva.deps.json
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\bin\Debug\net8.0\contagenRegresiva.runtimeconfig.json
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\bin\Debug\net8.0\contagenRegresiva.dll
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\bin\Debug\net8.0\contagenRegresiva.pdb
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\contagenRegresiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\contagenRegresiva.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\contagenRegresiva.AssemblyInfo.cs
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\contagenRegresiva.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\contagenRegresiva.dll
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\refint\contagenRegresiva.dll
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\contagenRegresiva.pdb
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\contagenRegresiva.genruntimeconfig.cache
+C:\Users\Adail\source\repos\contagenRegresiva\contagenRegresiva\obj\Debug\net8.0\ref\contagenRegresiva.dll

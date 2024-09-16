@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\bin\Debug\net8.0\numerosPrimosComArray.exe
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\bin\Debug\net8.0\numerosPrimosComArray.deps.json
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\bin\Debug\net8.0\numerosPrimosComArray.runtimeconfig.json
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\bin\Debug\net8.0\numerosPrimosComArray.dll
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\bin\Debug\net8.0\numerosPrimosComArray.pdb
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\numerosPrimosComArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\numerosPrimosComArray.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\numerosPrimosComArray.AssemblyInfo.cs
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\numerosPrimosComArray.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\numerosPrimosComArray.dll
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\refint\numerosPrimosComArray.dll
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\numerosPrimosComArray.pdb
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\numerosPrimosComArray.genruntimeconfig.cache
+C:\Users\Adail\source\repos\numerosPrimosComArray\numerosPrimosComArray\obj\Debug\net8.0\ref\numerosPrimosComArray.dll
