@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\bin\Debug\net8.0\positivoEnegativo.exe
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\bin\Debug\net8.0\positivoEnegativo.deps.json
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\bin\Debug\net8.0\positivoEnegativo.runtimeconfig.json
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\bin\Debug\net8.0\positivoEnegativo.dll
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\bin\Debug\net8.0\positivoEnegativo.pdb
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\positivoEnegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\positivoEnegativo.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\positivoEnegativo.AssemblyInfo.cs
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\positivoEnegativo.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\positivoEnegativo.dll
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\refint\positivoEnegativo.dll
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\positivoEnegativo.pdb
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\positivoEnegativo.genruntimeconfig.cache
+C:\Users\Adail\source\repos\positivoEnegativo\positivoEnegativo\obj\Debug\net8.0\ref\positivoEnegativo.dll

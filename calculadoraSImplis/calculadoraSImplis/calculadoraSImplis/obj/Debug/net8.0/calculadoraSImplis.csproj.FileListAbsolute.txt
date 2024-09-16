@@ -1,0 +1,14 @@
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\bin\Debug\net8.0\calculadoraSImplis.exe
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\bin\Debug\net8.0\calculadoraSImplis.deps.json
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\bin\Debug\net8.0\calculadoraSImplis.runtimeconfig.json
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\bin\Debug\net8.0\calculadoraSImplis.dll
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\bin\Debug\net8.0\calculadoraSImplis.pdb
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\calculadoraSImplis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\calculadoraSImplis.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\calculadoraSImplis.AssemblyInfo.cs
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\calculadoraSImplis.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\calculadoraSImplis.dll
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\refint\calculadoraSImplis.dll
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\calculadoraSImplis.pdb
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\calculadoraSImplis.genruntimeconfig.cache
+C:\Users\Adail\source\repos\calculadoraSImplis\calculadoraSImplis\obj\Debug\net8.0\ref\calculadoraSImplis.dll
