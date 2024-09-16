@@ -1,0 +1,15 @@
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\bin\Debug\net8.0\ContadorDe1a10.exe
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\bin\Debug\net8.0\ContadorDe1a10.deps.json
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\bin\Debug\net8.0\ContadorDe1a10.runtimeconfig.json
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\bin\Debug\net8.0\ContadorDe1a10.dll
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\bin\Debug\net8.0\ContadorDe1a10.pdb
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ContadorDe1a10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ContadorDe1a10.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ContadorDe1a10.AssemblyInfo.cs
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ContadorDe1a10.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ContadorDe1a10.sourcelink.json
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ContadorDe1a10.dll
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\refint\ContadorDe1a10.dll
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ContadorDe1a10.pdb
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ContadorDe1a10.genruntimeconfig.cache
+C:\Users\Adail\source\repos\ProjetosGitHub\ContadorDe1a10\ContadorDe1a10\obj\Debug\net8.0\ref\ContadorDe1a10.dll

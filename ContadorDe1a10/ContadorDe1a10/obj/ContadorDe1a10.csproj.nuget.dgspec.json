@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adail\\source\\repos\\ContadorDe1a10\\ContadorDe1a10\\ContadorDe1a10.csproj": {}
+    "C:\\Users\\Adail\\source\\repos\\ProjetosGitHub\\ContadorDe1a10\\ContadorDe1a10\\ContadorDe1a10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adail\\source\\repos\\ContadorDe1a10\\ContadorDe1a10\\ContadorDe1a10.csproj": {
+    "C:\\Users\\Adail\\source\\repos\\ProjetosGitHub\\ContadorDe1a10\\ContadorDe1a10\\ContadorDe1a10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adail\\source\\repos\\ContadorDe1a10\\ContadorDe1a10\\ContadorDe1a10.csproj",
+        "projectUniqueName": "C:\\Users\\Adail\\source\\repos\\ProjetosGitHub\\ContadorDe1a10\\ContadorDe1a10\\ContadorDe1a10.csproj",
         "projectName": "ContadorDe1a10",
-        "projectPath": "C:\\Users\\Adail\\source\\repos\\ContadorDe1a10\\ContadorDe1a10\\ContadorDe1a10.csproj",
+        "projectPath": "C:\\Users\\Adail\\source\\repos\\ProjetosGitHub\\ContadorDe1a10\\ContadorDe1a10\\ContadorDe1a10.csproj",
         "packagesPath": "C:\\Users\\Adail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adail\\source\\repos\\ContadorDe1a10\\ContadorDe1a10\\obj\\",
+        "outputPath": "C:\\Users\\Adail\\source\\repos\\ProjetosGitHub\\ContadorDe1a10\\ContadorDe1a10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adail\\AppData\\Roaming\\NuGet\\NuGet.Config",
