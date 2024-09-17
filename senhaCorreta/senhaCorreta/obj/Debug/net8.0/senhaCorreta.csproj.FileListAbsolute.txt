@@ -1,0 +1,15 @@
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\bin\Debug\net8.0\senhaCorreta.exe
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\bin\Debug\net8.0\senhaCorreta.deps.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\bin\Debug\net8.0\senhaCorreta.runtimeconfig.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\bin\Debug\net8.0\senhaCorreta.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\bin\Debug\net8.0\senhaCorreta.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\senhaCorreta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\senhaCorreta.AssemblyInfoInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\senhaCorreta.AssemblyInfo.cs
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\senhaCorreta.csproj.CoreCompileInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\senhaCorreta.sourcelink.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\senhaCorreta.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\refint\senhaCorreta.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\senhaCorreta.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\senhaCorreta.genruntimeconfig.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\senhaCorreta\senhaCorreta\obj\Debug\net8.0\ref\senhaCorreta.dll
