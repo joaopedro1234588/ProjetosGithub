@@ -1,0 +1,29 @@
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.exe
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.dll
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.AssemblyInfoInputs.cache
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.AssemblyInfo.cs
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.csproj.CoreCompileInputs.cache
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.dll
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\refint\primeiro projeto.dll
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.pdb
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.deps.json
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.runtimeconfig.json
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.pdb
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.genruntimeconfig.cache
+C:\Users\Adail\source\repos\primeiro projeto\primeiro projeto\obj\Debug\net8.0\ref\primeiro projeto.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.exe
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.deps.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.runtimeconfig.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\bin\Debug\net8.0\primeiro projeto.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.AssemblyInfoInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.AssemblyInfo.cs
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.csproj.CoreCompileInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.sourcelink.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\refint\primeiro projeto.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\primeiro projeto.genruntimeconfig.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\primeiro projeto\primeiro projeto\obj\Debug\net8.0\ref\primeiro projeto.dll
