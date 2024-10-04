@@ -1,0 +1,15 @@
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\bin\Release\net8.0\sistemaDeReservasAereas.exe
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\bin\Release\net8.0\sistemaDeReservasAereas.deps.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\bin\Release\net8.0\sistemaDeReservasAereas.runtimeconfig.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\bin\Release\net8.0\sistemaDeReservasAereas.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\bin\Release\net8.0\sistemaDeReservasAereas.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\sistemaDeReservasAereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\sistemaDeReservasAereas.AssemblyInfoInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\sistemaDeReservasAereas.AssemblyInfo.cs
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\sistemaDeReservasAereas.csproj.CoreCompileInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\sistemaDeReservasAereas.sourcelink.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\sistemaDeReservasAereas.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\refint\sistemaDeReservasAereas.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\sistemaDeReservasAereas.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\sistemaDeReservasAereas.genruntimeconfig.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\sistemaDeReservasAereas\sistemaDeReservasAereas\obj\Release\net8.0\ref\sistemaDeReservasAereas.dll
