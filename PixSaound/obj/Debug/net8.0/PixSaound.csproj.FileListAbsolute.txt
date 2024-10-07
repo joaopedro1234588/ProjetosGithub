@@ -1,0 +1,15 @@
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\bin\Debug\net8.0\PixSaound.exe
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\bin\Debug\net8.0\PixSaound.deps.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\bin\Debug\net8.0\PixSaound.runtimeconfig.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\bin\Debug\net8.0\PixSaound.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\bin\Debug\net8.0\PixSaound.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\PixSaound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\PixSaound.AssemblyInfoInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\PixSaound.AssemblyInfo.cs
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\PixSaound.csproj.CoreCompileInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\PixSaound.sourcelink.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\PixSaound.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\refint\PixSaound.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\PixSaound.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\PixSaound.genruntimeconfig.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\PixSaound\PixSaound\obj\Debug\net8.0\ref\PixSaound.dll
