@@ -1,0 +1,15 @@
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\bin\Debug\net8.0\consultaMedica.exe
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\bin\Debug\net8.0\consultaMedica.deps.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\bin\Debug\net8.0\consultaMedica.runtimeconfig.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\bin\Debug\net8.0\consultaMedica.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\bin\Debug\net8.0\consultaMedica.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\consultaMedica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\consultaMedica.AssemblyInfoInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\consultaMedica.AssemblyInfo.cs
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\consultaMedica.csproj.CoreCompileInputs.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\consultaMedica.sourcelink.json
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\consultaMedica.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\refint\consultaMedica.dll
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\consultaMedica.pdb
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\consultaMedica.genruntimeconfig.cache
+C:\Users\Adail\OneDrive\Área de Trabalho\ProjetosGitHub\cansultaMedica\cansultaMedica\obj\Debug\net8.0\ref\consultaMedica.dll
